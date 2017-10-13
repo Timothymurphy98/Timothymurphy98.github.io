@@ -1,0 +1,28 @@
+h1 {font-size: 20pt;
+   color: navy; }
+
+h1 {
+      text-align: center;
+      }
+      
+h2 {
+      text-align: center;
+      }
+      
+h3 {
+      text-align: center;
+      }
+body {background: lightblue;}
+
+h2 {font-size: 14pt;
+     color: red;}
+     
+h3 {font-size: 13pt;
+    color:  Black;}
+
+ 
+
+h5 {font-size: 14pt;
+     color: Black;}
+     
+    h5 {color: black; text-shadow: black 0.1em 0.1em 0.2em}
